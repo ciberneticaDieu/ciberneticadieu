@@ -1,6 +1,7 @@
  <!DOCTYPE html>
 <html>
 <head>
+ <meta charset="ASCII"> 
 </head>
 <body>
 <h1>My bitcoin address :</h1>
